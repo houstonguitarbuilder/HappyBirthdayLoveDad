@@ -1,2 +1,4 @@
+Pillow
 streamlit
-gTTS
+gtts
+pyautogui
